@@ -9,3 +9,4 @@ Validação de Cartão de Crédito em Javascript
 
 Fluxograma
 -----------------------------------------------
+![Fluxograma](Fluxograma-CartaodeCredito-Sprint1.jpg "Fluxograma")
